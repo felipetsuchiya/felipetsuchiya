@@ -2,10 +2,10 @@
 
 
 
-- 💻 Estudante de Sistemas de Informação na Universidade Positivo!
-- 📖 Atualmente estou aprendendo Angular e Spring
-- 🏆 Minha meta é me tornar fullstack!
-- 😂 Fun fact: Meu apelido é Sushi
+- 💻 Information Systems Student at Universidade Positivo!
+- 📖 I'm currently learning Angular and Spring
+- 🏆 My goal is to become fullstack!
+- 😂 Fun fact: My nickname is Sushi
 
 
 <h2 align="center">🍣 Github Stats 🍣</h2>
