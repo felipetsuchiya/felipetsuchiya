@@ -29,7 +29,7 @@
 </div>
 	
 <div align="center">
-	<h2>🍣 Contact me!! 🍣</h2>
+	<h2>🍣 Contact me ! 🍣</h2>
 	<a href="https://instagram.com/felipesuchi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 	<a href="https://www.linkedin.com/in/felipetsuchiya/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 	<a href="mailto:felipetsuchiya@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
