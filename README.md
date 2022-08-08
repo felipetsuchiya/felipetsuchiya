@@ -3,7 +3,7 @@
 
 
 - 💻 Information Systems Student at Universidade Positivo!
-- 📖 I'm currently learning Angular and Spring
+- 📖 I'm currently learning Python
 - 🏆 My goal is to become fullstack!
 - 😂 Fun fact: My nickname is Sushi
 
