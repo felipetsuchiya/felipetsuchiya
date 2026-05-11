@@ -19,8 +19,8 @@
   </a>
 </div>
 
-##🍣 Technologies 🍣
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<h2 align="center">🍣 Technologies 🍣 </h2>
+<img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
           
 
     
