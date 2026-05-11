@@ -11,16 +11,10 @@
 - 📱 Creator of the real-time mobile game **Sushi Showdown**.
 - 🎧 **Fun facts:** My nickname is Sushi, I produce music as DJ Suchi, and I occasionally work as a rent-a-goalkeeper! ⚽
 
-<h2 align="center">🍣 Github Stats 🍣</h2>
-<div align="center">
-  <a href="https://github.com/felipetsuchiya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipetsuchiya&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipetsuchiya&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
 <h2 align="center">🍣 Technologies 🍣 </h2>
 <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
           
 
     
