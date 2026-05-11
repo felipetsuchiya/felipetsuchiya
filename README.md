@@ -12,8 +12,10 @@
 - 🎧 **Fun facts:** My nickname is Sushi, I produce music as DJ Suchi, and I occasionally work as a rent-a-goalkeeper! ⚽
 
 <h2 align="center">🍣 Technologies 🍣 </h2>
-<img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<div style="display: flex;">
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+</div>
           
           
 
