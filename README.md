@@ -1,10 +1,5 @@
 <h2 align="center">🍣 Welcome! I'm Felipe! 🍣</h2>
 
-<div align="center">
-  <i>Senior Information Systems Student & Full-Stack Developer</i>
-</div>
-<br>
-
 - 💻 Finishing my **Information Systems** degree at Universidade Positivo.
 - 🚀 Passionate about modern web and mobile development, currently working with React, Node.js, and TypeScript.
 - 🛠️ Developing an **NFT-based digital ticketing system** for my graduation project (TCC).
@@ -15,10 +10,15 @@
 <div style="display: flex;">
   <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img style="width: 30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />          
 </div>
-          
-          
-
     
 <div align="center">
     <br>
